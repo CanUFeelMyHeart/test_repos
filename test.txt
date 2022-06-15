@@ -1,12 +1,10 @@
 # Работа с репозиториями GitHub
 
-3333333
+Clones a repository into a newly created directory:  
+> git clone \<URL adress *.git>
 
-333333
+Updates your current local working branch, and all of the remote tracking branches use:  
+> git pull
 
-
-3333333
-
-Hello World
-
-f,fk,flff;f;
+Update remote refs along with associated objects use:  
+> git push
