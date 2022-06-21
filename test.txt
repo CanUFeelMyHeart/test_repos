@@ -9,3 +9,29 @@
 
 Hello World2
 
+Hello
+
+Git push
+The git push command allows to send (or push) the commits from your local branch in your local Git repository to the remote repository.  
+This command’s syntax is:  
+git push (repo name) (branch name)
+
+Git pull
+The git pull is a Git command used to update the local version of a repository from a remote.
+
+The  git pull does two things.
+
+1. Updates the current local working branch (currently checked out branch)
+2. Updates the remote tracking branches for all other branches.  
+The git pull fetches (git fetch) the new commits and merges (git merge) these into your local branch.
+
+This command’s syntax is as follows:  
+ git pull REMOTE-NAME BRANCH-NAME
+
+Git clone 
+
+The git clone command is used to create a copy of a specific repository or branch within a repository.  
+
+This command’s syntax is as follows:
+git clone (url)
+
